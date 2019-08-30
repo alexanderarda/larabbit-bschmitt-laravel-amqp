@@ -1,4 +1,4 @@
-# Larabbit Series - Publishing Message Using `php-amqplib`
+# Larabbit Series - Publishing Message Using `bschmitt/laravel-amqp`
 
 Laravel project example in very simply way for publish message using  `bschmitt/laravel-amqp` library 
 
